@@ -73,7 +73,6 @@ RSpec.describe TaskListsController do
                             }
                           ]
                         )
-
     end
 
   end
